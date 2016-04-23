@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tire and Wheel Butler.unity
+  isLoaded: 1
+  isActive: 1
